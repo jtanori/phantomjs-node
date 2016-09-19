@@ -2,11 +2,11 @@
   "author": "Amir Raminfar <findamir@gmail.com>",
   "name": "phantom",
   "description": "PhantomJS integration module for NodeJS",
-  "homepage": "https://github.com/amir20/phantomjs-node",
+  "homepage": "https://github.com/jtanori/phantomjs-node",
   "version": "2.1.21",
   "repository": {
     "type": "git",
-    "url": "git://github.com/amir20/phantomjs-node.git"
+    "url": "git://github.com/jtanori/phantomjs-node.git"
   },
   "contributors": [
     {
